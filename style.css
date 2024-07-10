@@ -84,3 +84,43 @@
 .why-web-developer header p {
   font-size: 16px;
 }
+.reason {
+  width: 850px;
+  height: 240px;
+  background-image: linear-gradient(
+    to right,
+    rgb(255, 255, 255),
+    rgba(255, 255, 255, 0)
+  );
+  margin: 24px 48px;
+  display: flex;
+  padding: 48px;
+}
+.reason-2 {
+  background-image: linear-gradient(
+    to left,
+    rgb(255, 255, 255),
+    rgba(255, 255, 255, 0)
+  );
+}
+/* .reason-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+} */
+.reason-info h3 {
+  font-weight: 24px;
+  margin-bottom: 50px;
+}
+.reason-info p {
+  font-weight: 16px;
+  margin-bottom: 70px;
+}
+.reason-info button {
+  padding: 18px 24px;
+  background-color: white;
+  margin-bottom: 0px;
+}
+/* .reason-info {
+  align-content: space-around;
+} */
