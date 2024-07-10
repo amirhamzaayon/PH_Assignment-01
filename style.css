@@ -56,3 +56,31 @@
   margin-left: auto;
   margin-right: auto;
 } */
+
+.why-web-developer {
+  /* text-align: center; */
+  margin-left: auto;
+  margin-right: auto;
+  width: 1140px;
+  height: 1295px;
+  background-color: rgba(13, 19, 33, 0.02);
+  border-radius: 16px;
+  margin-top: 64px;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+}
+
+.why-web-developer header {
+  text-align: center;
+  padding: 32px;
+}
+
+.why-web-developer header h2 {
+  font-size: 32px;
+  margin: 24px 14px;
+}
+.why-web-developer header p {
+  font-size: 16px;
+}
