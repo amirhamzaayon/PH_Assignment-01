@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Azeret Mono", monospace;
+}
+.banner {
+  background-image: url(assets/Hero-bg.png);
+  background-size: cover;
+  /* background-position: center;
+  background-repeat: no-repeat; */
+  height: 100vh;
+}
+.banner {
+  text-align: center;
+}
+.banner img {
+  margin-top: 100px;
+}
+.banner h1 {
+  font-size: 48px;
+  margin: 24px 0px;
+}
+.banner p {
+  font-size: 16px;
+}
+.banner button {
+  padding: 21px 24px;
+  margin: 32px 0px;
+  border-radius: 8px;
+  background-color: black;
+}
+.banner a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+.hero-section nav {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px;
+  font-weight: bold;
+}
+.hero-section nav a {
+  padding: 17px 24px;
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 8px;
+  text-decoration: none;
+  color: black;
+}
+.hero-section nav p {
+  padding: 17px 24px;
+}
+
+/* .container {
+  margin-left: auto;
+  margin-right: auto;
+} */
