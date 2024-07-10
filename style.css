@@ -124,3 +124,76 @@
 /* .reason-info {
   align-content: space-around;
 } */
+.my-inspiration {
+  text-align: center;
+  padding: 30px;
+  margin-bottom: 20px;
+}
+
+.my-inspiration header {
+  padding: 30px;
+}
+
+.my-inspiration header h2 {
+  font-size: 32px;
+  margin: 24px 14px;
+}
+.my-inspiration header p {
+  font-size: 16px;
+}
+iframe {
+  width: 1076px;
+  height: 550px;
+  border: 32px solid aliceblue;
+  border-radius: 16px;
+}
+
+.my-target header {
+  text-align: center;
+  padding: 30px;
+}
+
+.my-target header h2 {
+  font-size: 32px;
+  margin: 24px 14px;
+}
+.my-target header p {
+  font-size: 16px;
+}
+.three-target {
+  width: 1140px;
+  background-color: rgba(13, 19, 33, 0.02);
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  justify-content: space-around;
+}
+.target-1 {
+  width: 248px;
+  height: 220px;
+  background-color: rgba(255, 76, 30, 0.05);
+  padding: 40px;
+  margin: 24px;
+  border-radius: 16px;
+}
+.css {
+  background-color: rgba(0, 76, 232, 0.05);
+}
+.javascript {
+  background-color: rgba(255, 223, 0, 0.05);
+}
+.my-target {
+  margin-bottom: 65px;
+}
+.three-target h4 {
+  font-weight: bold;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+.three-target p {
+  margin-bottom: 40px;
+}
+.three-target a {
+  font-weight: bold;
+  color: black;
+}
